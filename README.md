@@ -2,12 +2,9 @@
 This repository contains all the files that are required for sqlite workshop, hosted under aiadventures, on 06 Dec, 2020.
 
 ## Assignment:
-
+You will need to download [these resources](https://drive.google.com/drive/folders/1iL7DpsceRNsHEsxSHVHGqul5Of4Bznaf?usp=sharing) to work on the assignments. Also, make sure you have SQLite up and running in your system.
   - [movies](movies.md)
-
-  **Note:** You will need [these](https://drive.google.com/drive/folders/1iL7DpsceRNsHEsxSHVHGqul5Of4Bznaf?usp=sharing) files to work on the assignments. Also, make sure you have SQLite up and running in your system.
-
-  For more practice, we highly recommend [hackerrank](https://www.hackerrank.com/domains/sql). 
+  - Check [hackerrank](https://www.hackerrank.com/domains/sql), for some more practice.
 
 ## SQLite Resources:
 - [When to use SQLite](https://www.sqlite.org/whentouse.html)
