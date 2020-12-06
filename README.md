@@ -4,6 +4,7 @@ This repository contains all the files that are required for sqlite workshop, ho
 ## Assignment:
 
 - [movies](movies.md)
+
 **Note:** You will need [these](https://drive.google.com/drive/folders/1iL7DpsceRNsHEsxSHVHGqul5Of4Bznaf?usp=sharing) files to work on the assignments. Also, make sure you have SQLite up and running in your system.
 
 For more practice, try solving some challenges on [hackerrank](https://www.hackerrank.com/domains/sql). 
