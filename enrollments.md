@@ -1,4 +1,4 @@
-# Assignment 1 : enrolments
+# Assignment 1 : enrollments
 Write queries to answer the following questions based on enrollments database
 
 ## Getting Started
