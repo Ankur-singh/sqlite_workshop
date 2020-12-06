@@ -5,7 +5,7 @@ Write SQL queries to answer questions about a database of movies.
 
 ## **Getting Started**
 
-For this assigment, you will need `movies.db` file. You can download it from [here]().
+For this assigment, you will need `movies.db` file. You can download it from [here](https://drive.google.com/drive/folders/1iL7DpsceRNsHEsxSHVHGqul5Of4Bznaf?usp=sharing).
 
 ## **Understanding**
 
