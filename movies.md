@@ -1,5 +1,4 @@
 # Assignment-2 : Movies
----
 
 Write SQL queries to answer questions about a database of movies.
 
@@ -67,32 +66,10 @@ Answer the following questions by writing SQL queries:
 10. Write a SQL query to list the names of all people who have directed a movie that received a rating of at least 9.0.
     - Your query should output a table with a single column for the name of each person.
     - **Expected output:** a table with 1 column and 1,841 rows.
-11. Write a SQL query to list the titles of the five highest rated movies (in order) that Chadwick Boseman starred in, starting with the highest rated.
-    - Your query should output a table with a single column for the title of each movie.
-    - You may assume that there is only one person in the database with the name Chadwick Boseman.
-    - **Expected output:** a table with 1 column and 5 rows.
-12. Write a SQL query to list the titles of all movies in which both Johnny Depp and Helena Bonham Carter starred.
-    - Your query should output a table with a single column for the title of each movie.
-    - You may assume that there is only one person in the database with the name Johnny Depp.
-    - You may assume that there is only one person in the database with the name Helena Bonham Carter.
-    - **Expected output:** a table with 1 column and 6 rows.
-13. Write a SQL query to list the names of all people who starred in a movie in which Kevin Bacon also starred.
-    - Your query should output a table with a single column for the name of each person.
-    - There may be multiple people named Kevin Bacon in the database. Be sure to only select the Kevin Bacon born in 1958.
-    - Kevin Bacon himself should not be included in the resulting list.
-    - **Expected output:** a table with 1 column and 176 rows.
 
 ## Usage
 
-To test your queries, you can query the database by running ANY ONE of the following commands:
-
-1. `$ cat filename.sql | sqlite3 movies.db`  - bash command
-2. `$ sqlite3 [movies.db](http://movies.sb) < filename.sql` - bash command
-3. `sqlite> .read filename.sql` - sqlite3 command
-
-where, `filename.sql` is the file containing your SQL query.
-
-Or you can simply run `$sqlite3 movies.db` and then run your query inside *sqlite3* program.
+To test your queries, you can query the database by simply run `$sqlite3 movies.db` and then run your query inside the *sqlite3* program.
 
 ## Resources
 
